@@ -15,4 +15,4 @@
 ---
 
 
-[-酪梨-](https://giphy.com/gifs/reaction-13gvXfEVlxQjDO)
+[~~酪梨](https://giphy.com/gifs/reaction-13gvXfEVlxQjDO)
