@@ -65,4 +65,8 @@
 
 ### 初步類別圖及系統循序圖
 
-![login](login.png)
+![Login](login.png)
+
+![Signin](Signin.png)
+
+![Inquire](Inquire.png)
