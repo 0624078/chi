@@ -73,6 +73,6 @@
 
 ### 強韌圖
 
-![Robustness Diagram](Robustness Diagram.png)
+![Robustness Diagram](RobustnessDiagram.png)
 
 
